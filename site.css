@@ -1,0 +1,761 @@
+.title{
+  margin-top: .3%;
+  font-family: Gill Sans Extrabold, sans-serif;
+
+
+}
+.navbar{
+  margin-left: 1%;
+  margin-top:-65%;
+
+}
+.list{
+  list-style: none;
+  padding: 0;
+  margin:0;
+  margin-left: 33%;
+  margin-top: 7px;
+  overflow: hidden;
+  font-family: Gill Sans Extrabold, sans-serif;
+}
+.li{
+  float: left;
+}
+.home{
+display: inline-block;
+
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+color: white;
+}
+.menu{
+  display: inline-block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: white;
+}
+.about{
+  display: inline-block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: white;
+}
+.blog{
+  display: inline-block;
+
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: white;
+}
+.contact{
+  display: inline-block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: white;
+}
+.username{
+  border: none;
+  border-radius:50px;
+  width: 120px;
+  height: 32px;
+  background-color: #E32636;
+  color: white;
+  margin-left: 82.5%;
+  margin-top: -300px;
+
+}
+.botton{
+  padding: 0px;
+  width: 0px;
+  height: 0px;
+  margin-left:645px;
+  margin-top: -31px;
+}
+.s{
+  width:50%;
+  height: 500px;
+  background-color: #FBCEB1;
+
+
+}
+.img{
+  width: 50%;
+  margin-left: 50%;
+  margin-top: -31.88%;
+}
+.prag{
+  font-size: 80px;
+  font-family: monospace;
+}
+.prag2{
+  margin-top: -60px;
+  font-size: 25px;
+  font-family: monospace;
+  color: #E32636;
+}
+.ourmenu{
+  border: none;
+  border-radius: 50px;
+  width: 150px;
+  height: 40px;
+  background-color: #E32636;
+  color: white;
+  margin-left: 10px;
+}
+.article1{
+  margin-top: 35%;
+  margin-left: 27.5%;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 35px;
+}
+.prag3{
+  font-size: 20px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #808080;
+  margin-left: 215px;
+}
+.prag4{
+  font-size: 20px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #808080;
+  margin-left: 125px;
+}
+.card1{
+border: 2px solid ;
+border-color: #B2BEB5;
+border-radius: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 25px;
+width: 350px;
+height: 370px;
+margin-top: 80px;
+margin-left: 225px;
+}
+.food1{
+  width: 90px;
+  height: 90px;
+  margin-left: 135px;
+  margin-top: 30px;
+}
+.hcard1{
+  margin-top: 40px;
+  margin-left: 105px;
+}
+.pcard1{
+  font-size: 18px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #808080;
+  padding: 1px;
+  margin-top: 40px;
+}
+
+.card2{
+border: 2px solid ;
+border-color: #B2BEB5;
+border-radius: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 25px;
+width: 350px;
+height: 370px;
+margin-top:-375px;
+margin-left: 615px;
+}
+.food2{
+  width: 90px;
+  height: 90px;
+  margin-left: 135px;
+  margin-top: 30px;
+}
+.hcard2{
+  margin-top: 40px;
+  margin-left: 105px;
+}
+.pcard2{
+  font-size: 18px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #808080;
+  padding: 1px;
+  margin-top: 40px;
+}
+
+
+.card3{
+border: 2px solid ;
+border-color: #B2BEB5;
+border-radius: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 25px;
+width: 350px;
+height: 370px;
+margin-top:-375px;
+margin-left: 1000px;
+}
+.food3{
+  width: 90px;
+  height: 90px;
+  margin-left: 135px;
+  margin-top: 30px;
+}
+.hcard3{
+  margin-top: 40px;
+  margin-left: 105px;
+}
+.pcard3{
+  font-size: 18px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #808080;
+  padding: 1px;
+  margin-top: 40px;
+}
+.dishes{
+  background-color:#eee;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  height: 900px;
+}
+.hdishes{
+  font-size: 70px;
+}
+.pdishes{
+  color: #808080;
+  font-size: 20px;
+  margin-top: -55px;
+  width: 420px;
+}
+.hamburger{
+width: 600px;
+height: 250px;
+background-color: white;
+margin-left: 120px;
+margin-top: 100px;
+border-radius: 5px;
+
+}
+.hamimg{
+  width: 250px;
+  height: 250px;
+}
+.hham{
+  margin-left: 253px;
+  margin-top: -240px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
+}
+.pham{
+  margin-left: 255px;
+  width: 350px;
+  color: #808080;
+  font-size: 20px;
+}
+.order1{
+  width: 120px;
+  height: 30px;
+  margin-left: 470px;
+  margin-top: 20px;
+  background-color: #E32636;
+  border: none;
+  color: white;
+  border-radius: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.sweetener{
+width: 600px;
+height: 250px;
+background-color: white;
+margin-left: 780px;
+margin-top: -250px;
+border-radius: 5px;
+
+}
+.cakeimg{
+  width: 250px;
+  height: 250px;
+}
+.hcake{
+  margin-left: 253px;
+  margin-top: -245px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
+}
+.pcake{
+  margin-left: 255px;
+  width: 350px;
+  color: #808080;
+  font-size: 20px;
+}
+.order2{
+  width: 120px;
+  height: 30px;
+  margin-left: 470px;
+  margin-top: -2px;
+  background-color: #E32636;
+  border: none;
+  color: white;
+  border-radius: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.meals{
+width: 600px;
+height: 250px;
+background-color: white;
+margin-left: 780px;
+margin-top: 50px;
+border-radius: 5px;
+
+}
+.mealsimg{
+  width: 250px;
+  height: 250px;
+  margin-left: 350px;
+}
+.hmeals{
+  margin-left: 10px;
+  margin-top: -245px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
+}
+.pmeals{
+  margin-left: 10px;
+  width: 350px;
+  color: #808080;
+  font-size: 20px;
+}
+.order3{
+  width: 120px;
+  height: 30px;
+  margin-left: 10px;
+  margin-top: 3px;
+  background-color: #E32636;
+  border: none;
+  color: white;
+  border-radius: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.salades{
+width: 600px;
+height: 250px;
+background-color: white;
+margin-left: 120px;
+margin-top: -250px;
+border-radius: 5px;
+
+}
+.saladesimg{
+  width: 250px;
+  height: 250px;
+  margin-left: 350px;
+}
+.hsalades{
+  margin-left: 10px;
+  margin-top: -245px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
+}
+.psalades{
+  margin-left: 10px;
+  width: 350px;
+  color: #808080;
+  font-size: 20px;
+}
+.order4{
+  width: 120px;
+  height: 30px;
+  margin-left: 10px;
+  margin-top: 3px;
+  background-color: #E32636;
+  border: none;
+  color: white;
+  border-radius: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.allmenu1{
+  width: 120px;
+  height: 30px;
+  margin-left: 1270px;
+  margin-top: 30px;
+  background-color:white;
+  color: #E32636;
+  border-color:#E32636;
+  border-radius: 20px;
+  border-width: 2px;
+  border-style: solid;
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bookatable{
+  margin-top: 130px;
+  margin-left: 900px;
+  width: 650px;
+  height: 500px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.hbook{
+ color: #E32636;
+ font-size: 47px;
+ margin-left: -20px;
+ margin-top: -100px;
+}
+.pbook{
+color:#808080;
+font-size: 20px;
+margin-left: -20px;
+margin-top: -50px;
+width: 580px;
+}
+.tableimg{
+  margin-top: -500px;
+  margin-left: 50px;
+  width: 770px;
+  height: 570px;
+}
+.num{
+  color:#808080;
+  font-size: 15px;
+  height: 35px;
+  border-color: #808080;
+  border-width: 2px;
+  border-radius: 25px;
+  border-style:solid;
+  width: 550px;
+  margin-left: -20px;
+  text-align: center;
+}
+
+.date{
+  color:#808080;
+  font-size: 15px;
+  height: 35px;
+  border-color: #808080;
+  border-width: 2px;
+  border-radius: 25px;
+  border-style:solid;
+  width: 110px;
+  margin-left: -20px;
+ margin-top:20px;
+ text-align:center;
+
+}
+.listfood{
+  height: 40px;
+  width: 425px;
+  border-color: #808080;
+  border-width: 2px;
+  border-radius: 25px;
+  border-style:solid;
+  margin-left: 10px;
+  margin-top:20px;
+  text-align:center;
+  color:#808080;
+  font-size: 15px;
+}
+.numphone{
+  color:#808080;
+  font-size: 15px;
+  height: 35px;
+  border-color: #808080;
+  border-width: 2px;
+  border-radius: 25px;
+  border-style:solid;
+  width: 550px;
+  margin-left: -20px;
+  margin-top:25px;
+  text-align: center;
+}
+.message{
+  color:#808080;
+  font-size: 15px;
+  height: 130px;
+  border-color: #808080;
+  border-width: 2px;
+  border-radius: 8px;
+  border-style:solid;
+  width: 550px;
+  margin-left: -20px;
+  margin-top:25px;
+  text-align: center;
+}
+.send{
+  width: 120px;
+  height: 30px;
+  margin-left: 420px;
+  margin-top: 20px;
+  background-color:white;
+  color: #E32636;
+  border-color:#E32636;
+  border-radius: 20px;
+  border-width: 2px;
+  border-style: solid;
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.coustmerrate{
+  background-color:#eee;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  height: 620px;
+
+}
+.hrate{
+  font-size: 50px;
+  margin-left: 490px;
+}
+.prate{
+  margin-left: 370px;
+  margin-top: -40px;
+  padding: 12px;
+  font-size: 20px;
+}
+.comment1{
+  background-color: white;
+  color: #808080;
+  width: 280px;
+  height: 350px;
+  font-size: 18px;
+  margin-left: 280px;
+
+}
+.pcomment1{
+  margin-top: 20px;
+  padding: 10px;
+}
+.review1{
+  margin-top: 20px;
+  margin-left: 60px;
+}
+.logo1{
+  width: 75px;
+  height: 75px;
+  margin-left: 100px;
+  margin-top: 12px;
+}
+
+.comment2{
+  background-color: white;
+  color: #808080;
+  width: 280px;
+  height: 350px;
+  font-size: 18px;
+  margin-left: 620px;
+  margin-top: -350px;
+
+}
+.pcomment2{
+  margin-top: 20px;
+  padding: 10px;
+}
+.review2{
+  margin-top: 20px;
+  margin-left: 60px;
+}
+.logo2{
+  width: 75px;
+  height: 75px;
+  margin-left: 100px;
+  margin-top: 12px;
+}
+
+.comment3{
+  background-color: white;
+  color: #808080;
+  width: 280px;
+  height: 350px;
+  font-size: 18px;
+  margin-left: 980px;
+  margin-top: -350px;
+
+}
+.pcomment3{
+  margin-top: 20px;
+  padding: 10px;
+}
+.review3{
+  margin-top: 20px;
+  margin-left: 60px;
+}
+.logo3{
+  width: 75px;
+  height: 75px;
+  margin-left: 100px;
+  margin-top: 12px;
+}
+.endsite{
+  height: 680px;
+  background-color:rgb(18, 12, 20);
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+  margin-top: -20px;
+}
+.followcard{
+  background-color: rgb(25, 25, 25);
+  width: 320px;
+  height: 385px;
+  border-radius: 4px;
+  margin-left: 170px;
+  margin-top: -730px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+}
+.flowericon{
+  width: 130px;
+  height:130px;
+  margin-left: 95px;
+}
+.pfollowcard1{
+  font-size: 18px;
+  margin-left: 10px;
+  margin-top: -3px;
+  padding: 8px;
+}
+.pfollowcard2{
+  font-size:25px;
+  margin-left: 18px;
+}
+.facebook{
+  margin-left:18px;
+  width: 40px;
+  height: 40px;
+}
+.twitter{
+  margin-left: 10px;
+  width: 40px;
+  height: 40px;
+}
+.instagram{
+  margin-left: 10px;
+  width: 40px;
+  height: 40px;
+}
+.skype{
+  margin-left: 10px;
+  width: 40px;
+  height: 40px;
+}
+.youtube{
+  margin-left: 10px;
+  width: 40px;
+  height: 40px;
+}
+.locate1{
+  width: 150px;
+  margin-left: 650px;
+ padding-top: 60px;
+ font-size: 25px;
+}
+.locate2{
+  width: 200px;
+  margin-left: 650px;
+  margin-top: -20px;
+  padding-top: 5px;
+  font-size: 20px;
+}
+.phonenumber1{
+  margin-left: 1050px;
+  margin-top: -85px;
+  padding-top: 5px;
+  font-size: 25px;
+}
+.phonenumber2{
+  margin-left: 1050px;
+  margin-top: -20px;
+  font-size: 20px;
+}
+.hlinks{
+  margin-left: 590px;
+  margin-top: 150px;
+  font-size: 32px;
+}
+.plinks{
+  color: #808080;
+  margin-left: 590px;
+  margin-top: 50px;
+  font-size: 22px;
+
+}
+.plinks2{
+  color: #808080;
+  margin-left: 590px;
+  font-size: 22px;
+  margin-left: 170px;
+  margin-top: -190px;
+}
+.line1{
+  margin-left: -230px;
+  margin-top: -20px;
+}
+.linehlinks{
+  width: 150px;
+  border-radius: 2px;
+  border: solid;
+  color:royalblue;
+}
+.hsubscribe{
+  margin-left: 970px;
+  margin-top: -300px;
+  font-size: 32px;
+}
+.line2{
+  margin-left: 525px;
+  margin-top: -19px;
+}
+.linehsub{
+  width: 150px;
+  border-radius: 2px;
+  border: solid;
+  color:royalblue;
+}
+.psubscribe{
+  font-size: 20px;
+  width: 400px;
+  margin-left: 970px;
+  margin-top: 51px;
+}
+.emailaddres{
+  color:#808080;
+  font-size: 15px;
+  height: 35px;
+  border-color: rgb(25, 25, 25);
+  background-color: rgb(25, 25, 25);
+  border-width: 2px;
+  border-radius: 25px;
+  border-style:solid;
+  width: 400px;
+  margin-left: 970px;
+  text-align: center;
+}
+.sendemail{
+  background-color:royalblue;
+  border: solid;
+  border-color: royalblue;
+  border-radius: 10px;
+}
+.bottombar{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color:#808080;
+  font-size:18px;
+  background-color: rgb(25, 25, 25);
+  margin-top: 290px;
+  height: 80px;
+}
+.copyright{
+  padding-top:30px;
+  margin-left: 50px;
+}
+.bottomhome{
+  margin-left: 1100px;
+  margin-top: -40px;
+}
+.bottonterm{
+  margin-left: 1200px;
+  margin-top: -38px;
+}
+.bottomprivacy{
+  margin-left: 1300px;
+  margin-top: -38px;
+}
+.bottomcontact{
+  margin-left: 1450px;
+  margin-top: -38px;
+}
